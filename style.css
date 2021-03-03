@@ -13,6 +13,7 @@ h2 {
   color: #8b4513;
   font-family: "Dosis", sans-serif;
   font-weight: bold;
+  text-align: center;
 }
 
 a {
@@ -22,31 +23,33 @@ a {
 
 h1 {
   font-size: 60px;
-  text-align: center;
   margin: 0;
 }
 
 h2 {
   font-size: 35px;
-  text-align: center;
   margin-top: 0px;
 }
 
-.paticka {
+.footer {
   background-color: #282425;
   color: whitesmoke;
   text-align: center;
   padding: 3px 0px;
 }
 
-.hlavicka {
+.header {
   background-color: #ffd9b3;
   padding: 60px 30px;
 }
 
-.zajmy,
-.kontakt {
+.interests,
+.contact {
   background-color: #ffd9b3;
+}
+
+.interests {
+  text-align: left;
 }
 
 .fotkaeva {
